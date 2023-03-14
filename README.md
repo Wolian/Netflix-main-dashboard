@@ -2,6 +2,8 @@
 
 In order to see this file in preview mode in VS Code, press ```Ctrl + Shift + V```
 
+## DEMO [https://wolian.github.io/Netflix-main-dashboard/](https://wolian.github.io/Netflix-main-dashboard/)
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/)
